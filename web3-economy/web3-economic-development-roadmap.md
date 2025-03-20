@@ -14,34 +14,16 @@ This roadmap is attempting to recommend a logical order for executing these new 
 
 
 
-## 1. Money
-
-Web3 ecosystems commonly have their own network coin that is used to pay for the operation of the network. This network coin is itself a form of money. People can use it to pay for using the network or use it to exchange value with other people. Many of these Web3 ecosystems also enable the creation of token based assets. These tokens could represent anything digital or physical. Many Web3 networks  create an open and permissionless free market for systems of money to emerge as anyone is able to create their own token that is then adopted as a form of money.
-
-How the network coin and any tokens are held and used within these ecosystems will have a profound impact on the incentives that exist for each user. Money is one of the most important starting points for Web3 ecosystems to think about as it will impact every protocol, application, user and organisation that uses and relies on these networks.
-
-The current recommendations around money are for ecosystems to consider adopting demurrage via a wealth tax for their network coin. You can learn more about monetary theory and how this has been applied to Web3 here:
-
-{% content-ref url="https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/xwjyaRb9UzRquIkd6xoH/" %}
-[Money](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/xwjyaRb9UzRquIkd6xoH/)
-{% endcontent-ref %}
-
-
-
-## 2. Treasuries
+## 1. Treasuries & funding
 
 Web3 ecosystems are able to create circular economies that generate income for their treasury. This income can then be used to fund initiatives that help to maintain and improve the network. A number of protocols, applications and other ecosystem initiatives could also be funded. Treasuries will become increasingly owned and governed by the entire community that participates and contributes towards these networks.
 
 A treasury and funding process could have a dramatic long term impact on growing a Web3 ecosystem as it could reliably fund ongoing initiatives that help to improve and grow the ecosystem.
 
-The current recommendation for Web3 ecosystems to consider is how wealth taxes could be used to generate more reliable and ongoing income for the treasury. This income could then fund contributors directly who can then make ongoing contributions to the ecosystem. Learn more about treasuries, income, funding and contributor funding here:
+The current recommendation for Web3 ecosystems is to first set up their treasury and funding process to prove that they are able to generate a positive return on investment using any genesis community treasury allocation. Learn more about treasuries, income, funding and contributor funding here:
 
 {% content-ref url="https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/qIN4B3DGHPqKOl7e6VuV/" %}
 [Treasuries](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/qIN4B3DGHPqKOl7e6VuV/)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/ZoHfKJYKPW9AnonUHAUO/" %}
-[Income](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/ZoHfKJYKPW9AnonUHAUO/)
 {% endcontent-ref %}
 
 {% content-ref url="https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/8L61e8ulVlk90t5mlQk1/" %}
@@ -50,6 +32,26 @@ The current recommendation for Web3 ecosystems to consider is how wealth taxes c
 
 {% content-ref url="https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/Zzfl1XcpAphbCFDyUysC/" %}
 [Contributors](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/Zzfl1XcpAphbCFDyUysC/)
+{% endcontent-ref %}
+
+
+
+## 2. Money & treasury income
+
+Once a treasury and funding process is set up and able to prove that it is effective the next step for a Web3 ecosystem is to consider how they will generate treasury income over the long term. Wealth taxes represent a promising solution for generating a more reliable and ongoing amount of income for the treasury. Treasury income could be used to fund ecosystem contributors directly. These contributors could then make ongoing contributions to the ecosystem.
+
+Web3 ecosystems commonly have their own network coin that is used to pay for the operation of the network. This network coin is itself a form of money. People can use it to pay for using the network or use it for conducting exchanges with other people. Many of these Web3 ecosystems also enable the creation of token based assets. These tokens could represent anything digital or physical. Many Web3 networks create an open and permissionless free market for systems of money to emerge as anyone is able to create their own token that is then adopted as a form of money.
+
+How the network coin and any tokens are held and used within these ecosystems will have a profound impact on the incentives that exist for each user. The system of money becomes an increasingly important factor for preventing wealth concentrations from occurring over the long term and for generating treasury income that can sustain ongoing ecosystem development. The system of money will impact every protocol, application, user and organisation that uses and relies on these networks.
+
+The current recommendations around money are for ecosystems to consider adopting demurrage via a wealth tax for their network coin. You can learn more about monetary theory and how this has been applied to Web3 here:
+
+{% content-ref url="https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/xwjyaRb9UzRquIkd6xoH/" %}
+[Money](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/xwjyaRb9UzRquIkd6xoH/)
+{% endcontent-ref %}
+
+{% content-ref url="https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/ZoHfKJYKPW9AnonUHAUO/" %}
+[Income](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/ZoHfKJYKPW9AnonUHAUO/)
 {% endcontent-ref %}
 
 
